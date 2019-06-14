@@ -12,17 +12,3 @@ C:\Users\Lucas\source\repos\PrimeiroProjeto\ApiClientes\obj\Debug\netcoreapp2.1\
 C:\Users\Lucas\source\repos\PrimeiroProjeto\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.RazorTargetAssemblyInfo.cache
 C:\Users\Lucas\source\repos\PrimeiroProjeto\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.dll
 C:\Users\Lucas\source\repos\PrimeiroProjeto\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.pdb
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\bin\Debug\netcoreapp2.1\ApiClientes.deps.json
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\bin\Debug\netcoreapp2.1\ApiClientes.runtimeconfig.json
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\bin\Debug\netcoreapp2.1\ApiClientes.runtimeconfig.dev.json
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\bin\Debug\netcoreapp2.1\ApiClientes.dll
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\bin\Debug\netcoreapp2.1\ApiClientes.pdb
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.csprojAssemblyReference.cache
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.RazorAssemblyInfo.cache
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.RazorAssemblyInfo.cs
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.AssemblyInfoInputs.cache
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.AssemblyInfo.cs
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.RazorTargetAssemblyInfo.cache
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.dll
-C:\Users\Lucas\source\repos\aula-api\ApiClientes\obj\Debug\netcoreapp2.1\ApiClientes.pdb

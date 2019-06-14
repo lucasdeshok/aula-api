@@ -10,7 +10,7 @@ namespace PrimeiroProjeto.Models
     public class Cliente
     {
         [Display(Name ="Código")]
-        public int IDCliente { get; set; }
+        public int Id { get; set; }
         public string Nome { get; set; }
         public int Filhos { get; set; }
         [Display(Name = "Endereço")]
